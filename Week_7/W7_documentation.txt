@@ -1,0 +1,21 @@
+WEEK 7 DOCUMENTATION
+
+Bug Found:
+The main.py file did not import the calculate_total() function correctly.
+
+Fix:
+Added:
+from food_order import calculate_total
+
+Bug Found:
+The total payment was not calculated because the function was not called.
+
+Fix:
+Added:
+total = calculate_total(price, quantity)
+
+Bug Found:
+No validation for invalid input.
+
+Fix:
+Added validation in food_order.py for invalid price and invalid quantity.
