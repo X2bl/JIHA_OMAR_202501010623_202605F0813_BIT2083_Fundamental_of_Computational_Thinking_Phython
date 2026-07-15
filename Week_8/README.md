@@ -8,4 +8,4 @@
     Then the receipt will be printed or displayed
 
 4. record vido for the application 
-![alt text](screen_recording-ezgif.com-video-to-gif-converter.gif)
+![alt text](2026-07-15141253-ezgif.com-video-to-gif-converter.gif)
